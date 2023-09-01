@@ -18,13 +18,13 @@ The `technical-reports` directory contains two in-depth technical reports:
 
 #### Leveraging Big Data Techniques and Analytics for Enhanced Understanding of Dota 2 Match Dynamics
 
-![Lab 1](technical-reports/bdcclab1/figures/header.png)
+![Lab 1](technical-reports/bdcc-lab1/figures/header.png)
 
 In this report, we leveraged Big Data techniques to perform exploratory data analysis on a substantial 16 GB dataset related to Dota 2 match dynamics. We used Apache Spark for data processing and analysis. The dataset was sourced from [Academic Torrents](https://academictorrents.com/collection/opendota-formerly-yasp-data-dumps).
 
 #### Insights from Big Data: A Cloud-Based Data Analysis of COVID-19 Scientific Literature
 
-![Lab 2](technical-reports/bdcclab1/figures/header.png)
+![Lab 2](technical-reports/bdcc-lab2/figures/header.png)
 
 In this report, we detail our cloud-based data analysis of COVID-19 scientific literature using AWS services. We employed AWS EMR for data processing and analysis of a dataset from the [Registry of Open Data on AWS](https://registry.opendata.aws/cord-19/). The report provides valuable insights gained from the analysis.
 
