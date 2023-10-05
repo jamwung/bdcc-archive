@@ -1,18 +1,10 @@
 # Big Data and Cloud Computing Archive
 
-This repository showcases my hands-on exercises, assignments, and technical reports related to Big Data and Cloud Computing. It covers various topics, including Apache Spark, machine learning on big data, and cloud computing using AWS services. Additionally, it includes two technical reports, which were collaborative projects.
+This repository showcases my hands-on exercises, assignments, and technical reports related to Big Data and Cloud Computing. It covers various topics, including Apache Spark, machine learning on big data, and cloud computing using AWS services.
 
 ## Contents
 
-### 1. Exercises and Assignments
-
-In the `exercises-assignments` directory, you'll find a collection of hands-on exercises and assignments as python scripts and notebooks that I completed to learn and apply Big Data and Cloud Computing concepts. The exercises cover:
-
-- Apache Spark: DataFrame API, SQL API, and Pandas API on Spark.
-- Machine Learning on Spark: Training machine learning models on large datasets.
-- Cloud Computing: Utilizing AWS EC2 for virtual machines, AWS EMR for distributed computing, and AWS S3 for data storage and model storage.
-
-### 2. Technical Reports
+### Technical Reports
 
 The `technical-reports` directory contains two in-depth technical reports:
 
@@ -27,6 +19,14 @@ In this report, we leveraged Big Data techniques to perform exploratory data ana
 ![Lab 2](technical-reports/bdcc-lab2/figures/header.png)
 
 In this report, we detail our cloud-based data analysis of COVID-19 scientific literature using AWS services. We employed AWS EMR for data processing and analysis of a dataset from the [Registry of Open Data on AWS](https://registry.opendata.aws/cord-19/). The report provides valuable insights gained from the analysis.
+
+### Exercises and Assignments
+
+In the `exercises-assignments` directory, you'll find a collection of hands-on exercises and assignments as python scripts and notebooks that I completed to learn and apply Big Data and Cloud Computing concepts. The exercises cover:
+
+- Apache Spark: DataFrame API, SQL API, and Pandas API on Spark.
+- Machine Learning on Spark: Training machine learning models on large datasets.
+- Cloud Computing: Utilizing AWS EC2 for virtual machines, AWS EMR for distributed computing, and AWS S3 for data storage and model storage.
 
 ## License
 
